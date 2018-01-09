@@ -39,6 +39,6 @@ Refer to [Kubernetes deployment metrics](https://github.com/kubernetes/kube-stat
 
 ### Reference
 
-[Prometheus Doc](https://prometheus.io/docs/introduction/overview/)
-[Prometheus中文翻译](https://github.com/1046102779/prometheus)
+- [Prometheus Doc](https://prometheus.io/docs/introduction/overview/)
+- [Prometheus中文翻译](https://github.com/1046102779/prometheus)
 
