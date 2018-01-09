@@ -19,7 +19,7 @@ Metrics monitoring solution based on Prometheus
 
 ### Domain Model
 
-![Domain Model](https://github.com/cx580/Metrics_Project/blob/master/pic/domainmodel.png)
+![Domain Model](https://github.com/cx580/Metrics_Project/blob/master/pic/domain.png)
 
 ### Metrics and label naming spec
 
@@ -35,7 +35,7 @@ Refer to [Kubernetes deployment metrics](https://github.com/kubernetes/kube-stat
 - Method name
 - Channel name
 
-![Common Labe](https://github.com/cx580/Metrics_Project/blob/master/pic/label2.png)
+![Common Labe](https://github.com/cx580/Metrics_Project/blob/master/pic/label.png)
 
 ### Reference
 
