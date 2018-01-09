@@ -25,6 +25,8 @@ Metrics monitoring solution based on Prometheus
 
 Refer to [Metric naming](https://prometheus.io/docs/practices/naming/)
 
+Refer to [Kubernetes deployment metrics](https://github.com/kubernetes/kube-state-metrics/blob/master/Documentation/deployment-metrics.md)
+
 ### Common labels in each metrics
 
 - Namespace / Domain name
@@ -35,5 +37,8 @@ Refer to [Metric naming](https://prometheus.io/docs/practices/naming/)
 
 ![Common Labe](https://github.com/cx580/Metrics_Project/blob/master/pic/label.png)
 
+### Reference
 
+[Prometheus Doc](https://prometheus.io/docs/introduction/overview/)
+[Prometheus中文翻译](https://github.com/1046102779/prometheus)
 
