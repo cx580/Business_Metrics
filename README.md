@@ -1,2 +1,2 @@
-# Business_Metrics
-Business metrics monitoring solution based on Prometheus
+# Metrics Project
+Metrics monitoring solution based on Prometheus
