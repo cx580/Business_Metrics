@@ -35,7 +35,7 @@ Refer to [Kubernetes deployment metrics](https://github.com/kubernetes/kube-stat
 - Method name
 - Channel name
 
-![Common Labe](https://github.com/cx580/Metrics_Project/blob/master/pic/label.png)
+![Common Labe](https://github.com/cx580/Metrics_Project/blob/master/pic/label2.png)
 
 ### Reference
 
