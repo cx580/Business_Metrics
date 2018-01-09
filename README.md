@@ -29,6 +29,7 @@ Refer to [Metric naming](https://prometheus.io/docs/practices/naming/)
 
 - Namespace / Domain name
 - Service name
+- Interface name
 - Method name
 - Channel name
 
