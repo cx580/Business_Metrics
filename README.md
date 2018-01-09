@@ -19,7 +19,7 @@ Metrics monitoring solution based on Prometheus
 
 ### Domain Model
 
-![Domain Model](https://github.com/cx580/Metrics_Project/blob/master/pic/domain.png)
+![Domain Model](https://github.com/cx580/Metrics_Project/blob/master/pic/domainmodel.png)
 
 ### Metrics and label naming spec
 
